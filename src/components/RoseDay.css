@@ -359,3 +359,29 @@ p{
     font-weight: lighter;
     margin-left: -5rem;
 }
+@media (max-width: 768px) {
+    .rose {
+        width: 80px;
+        height: 80px;
+    }
+
+    .rose .petal {
+        width: 50px;
+        height: 50px;
+    }
+
+    .text {
+        font-size: 1.5rem;
+    }
+
+    #prompt {
+        font-size: 1.2rem;
+    }
+    .rose .text span{
+        width: 60%;
+    }
+    h1 {
+        font-size: 1.2rem;
+        margin-right: 3.0rem;
+    }
+}

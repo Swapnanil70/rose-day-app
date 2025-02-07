@@ -6,7 +6,3 @@ export default defineConfig({
   plugins: [react()],
   base: "/rose-day-app/",
 })
-
-// export default {
-//   base: "/rose-day-app/", // Change this based on your repo name
-// };
